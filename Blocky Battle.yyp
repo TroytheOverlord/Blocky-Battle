@@ -30,7 +30,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.6.2.162",
+    "IDEVersion":"2024.11.0.179",
   },
   "name":"Blocky Battle",
   "resources":[
@@ -43,6 +43,7 @@
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"oSky","path":"objects/oSky/oSky.yy",},},
     {"id":{"name":"oTransition","path":"objects/oTransition/oTransition.yy",},},
+    {"id":{"name":"qteController","path":"objects/qteController/qteController.yy",},},
     {"id":{"name":"Areana","path":"rooms/Areana/Areana.yy",},},
     {"id":{"name":"Battleground","path":"rooms/Battleground/Battleground.yy",},},
     {"id":{"name":"RoomTransition","path":"scripts/RoomTransition/RoomTransition.yy",},},

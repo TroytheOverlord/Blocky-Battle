@@ -19,6 +19,7 @@
     {"name":"inst_D08FC8A","path":"rooms/Areana/Areana.yy",},
     {"name":"inst_307A0A6E","path":"rooms/Areana/Areana.yy",},
     {"name":"inst_2FB4309C","path":"rooms/Areana/Areana.yy",},
+    {"name":"inst_2324897B","path":"rooms/Areana/Areana.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -46,6 +47,7 @@
         {"$GMRInstance":"v1","%Name":"inst_2FB4309C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2FB4309C","objectId":{"name":"oButton","path":"objects/oButton/oButton.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"oButton","path":"objects/oButton/oButton.yy",},"propertyId":{"name":"button","path":"objects/oButton/oButton.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"buttons.RESTART",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":128.0,"y":704.0,},
+        {"$GMRInstance":"v1","%Name":"inst_2324897B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2324897B","objectId":{"name":"qteController","path":"objects/qteController/qteController.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":64.0,"y":64.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Mountains","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Mountains","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"sMountains","path":"sprites/sMountains/sMountains.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":290,},
     {"$GMRBackgroundLayer":"","%Name":"Sky","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Sky","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"sSky","path":"sprites/sSky/sSky.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":true,"x":0,"y":0,},

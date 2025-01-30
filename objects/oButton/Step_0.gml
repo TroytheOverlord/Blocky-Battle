@@ -1,4 +1,5 @@
 /// @description 
+// Step Event
 
 if oBattle.state != states.PLAYERCHOOSE{
 	image_alpha = 0.2;	

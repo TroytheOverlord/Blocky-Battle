@@ -1,4 +1,5 @@
 /// @description 
+// Draw GUI Event
 
 var guiw = display_get_gui_width()
 var guih = display_get_gui_height()

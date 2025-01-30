@@ -1,4 +1,5 @@
 /// @description Ends Game after winning
+// Alarm 3 Event
 
 room_goto(Battleground);
 
